@@ -20,7 +20,7 @@ This project builds a chat interface entirely in SwiftUI: a `ScrollView` with `L
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/_utOlpGlhes)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 ---
 
